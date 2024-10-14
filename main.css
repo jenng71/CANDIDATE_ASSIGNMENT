@@ -36,7 +36,7 @@ img{
     background-color: antiquewhite;
     margin-bottom: 20px;}
 
-video{
+    video{
     max-width: 100%;
     height: auto;}
 
@@ -45,6 +45,7 @@ video{
     justify-content: center;        
     align-items: center;
     margin: auto;}
+
 
 
 h2{
@@ -89,7 +90,7 @@ p{
     p{
         margin:30px;}
 
-   video{
+    video{
     max-width:640px;
     max-height: 360px;
     padding: auto;}
@@ -99,6 +100,7 @@ p{
         justify-content: center;
         align-items: center;
         margin: auto;}
+  
 }
 
 
@@ -116,7 +118,7 @@ p{
 .container{
     padding-bottom: 5px;
     margin-bottom: 20px;}
-}
+
 figure{
     font-style: italic;}    
 
